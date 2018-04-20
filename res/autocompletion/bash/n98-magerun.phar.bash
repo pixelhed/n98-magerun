@@ -412,4 +412,4 @@ _n98-magerun()
     fi
 }
 
-complete -o default -F _n98-magerun n98-magerun.phar n98-magerun magerun
+complete -o default -F _n98-magerun n98-magerun.phar n98-magerun magerun mr
